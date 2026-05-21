@@ -88,10 +88,17 @@
 
 <p align="left">
   <a href="https://github.com/dreayrt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+
+  <a href="https://www.facebook.com/phuocthuan.lam.18?locale=vi_VN" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/thuan-lam-716569341/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="45"/>
   </a>
 </p>
-
 
 <h3 align="center">
   💡 “First, solve the problem. Then, write the code.”
