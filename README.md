@@ -1,50 +1,51 @@
 <h1 align="center">Hi 👋, I'm Thuan</h1>
-<h3 align="center">AI Engineer | Backend Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dreayrt&label=Profile%20views&color=0e75b6&style=flat" alt="dreayrt" />
+  <a href="https://github.com/dreayrt">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Frontend+Engineer;Spring+Boot+%7C+NodeJS+%7C+React;Always+learning+new+things" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Information Technology Student
-- 🤖 Currently researching **Face Anti-Spoofing**
-- 🔥 Working with:
-  - CNN + DSP + LSTM
-  - Swin Transformer
-  - Kafka & Microservices
-  - Docker & DevOps
-- 🌱 Learning more about:
-  - Distributed Systems
-  - AI Security
-  - Backend Architecture
-- ⚡ Fun fact:
-  > I break things to understand how they work 😄
+- 💻 Passionate about Web Development
+- 🌱 Currently learning:
+  - Microservices
+  - System Design
+  - Docker & Kafka
+  - Cloud Deployment
+- 🔥 Main Tech Stack:
+  - Spring Boot
+  - ReactJS
+  - NodeJS
+  - MySQL & MongoDB
+- ⚡ Love building scalable backend systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 </p>
 
-### 🤖 AI / Data Science
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,redis" />
 </p>
 
 ### 🐳 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,linux" />
 </p>
 
 ---
@@ -52,8 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreayrt&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dreayrt&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -61,31 +63,37 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dreayrt&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dreayrt&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Current Projects
+## 🚧 Current Projects
 
-- 🔐 AI Face Anti-Spoofing System
-- 🎥 AI Video Detection
-- 🏨 Tourism Recommendation System
-- 📦 Kafka Notification Service
-- 🐳 Dockerized Microservices
+- 🌐 Full Stack Web Applications
+- 📦 Microservices Architecture
+- 🔔 Kafka Notification System
+- 🐳 Docker Deployment
+- 🔐 Authentication & Security Systems
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/dreayrt" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/dreayrt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💻 "Code. Break. Learn. Repeat."
+  <img src="https://github-profile-trophy.vercel.app/?username=dreayrt&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+<h3 align="center">
+  💡 “First, solve the problem. Then, write the code.”
+</h3>
