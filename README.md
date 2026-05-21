@@ -53,9 +53,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dreayrt&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dreayrt&show_icons=true&theme=github_dark&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=github_dark&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
@@ -63,9 +69,10 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dreayrt&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dreayrt&theme=github-dark&hide_border=true" 
+  />
 </p>
-
 ---
 
 ## 🚧 Current Projects
@@ -87,11 +94,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dreayrt&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <h3 align="center">
