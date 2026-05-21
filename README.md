@@ -54,13 +54,13 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dreayrt&show_icons=true&theme=github_dark&hide_border=true" 
-    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreayrt&show_icons=true&theme=github_dark&hide_border=true" 
+    height="165"
   />
-
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=github_dark&hide_border=true" 
-    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dreayrt&layout=compact&theme=github_dark&hide_border=true" 
+    height="165"
   />
 </p>
 
@@ -70,10 +70,9 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=dreayrt&theme=github-dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dreayrt&theme=github-dark&hide_border=true"
   />
 </p>
----
 
 ## 🚧 Current Projects
 
@@ -93,8 +92,6 @@
   </a>
 </p>
 
----
----
 
 <h3 align="center">
   💡 “First, solve the problem. Then, write the code.”
